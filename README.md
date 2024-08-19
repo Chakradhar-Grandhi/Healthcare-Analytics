@@ -59,6 +59,6 @@ I hope this dataset sparks curiosity and innovation, allowing you to explore, le
 
 You can find the original dataset on Kaggle here: [Synthetic Healthcare Dataset on Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
 
-## [License](#license)
+## License
 
 This dataset is licensed under the MIT License, which allows you to freely use, modify, and distribute the data, provided you include the original copyright notice and this permission notice in any copies of the data. For more details, refer to the [LICENSE](./LICENSE) file.
